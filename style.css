@@ -1,0 +1,129 @@
+
+
+.texto1{
+    width: 70%;
+    height: 30%;
+    margin-top: 1%;
+    margin-left: 16%;
+    height: 0 auto;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+.texto2{
+    width: 70%;
+    height: 30%;
+    margin: 1.5%;
+    margin-left: 13%;
+    margin-top: 4%;
+    height: 0 auto;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: dimgrey;
+    
+
+}
+
+.botones{
+    color: beige;
+    
+}
+
+
+#carousel{
+    width: 80%;
+    border: 8%;
+    height: 0 auto;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+.Isla{
+    margin: 4%;
+    margin-left: 5%;
+    margin-right: 0%;
+    display: inline-block;
+} 
+
+.Isla2{
+    margin: 4%;
+    margin-right: 0%;
+    display: inline-block;
+
+}
+
+.Isla3{
+    margin: 4%;
+    margin-right: 0%;
+    display: inline-block;
+
+}
+.Isla4{
+    margin: 4%;
+    margin-right: 0%;
+    margin-left: 5%;
+    display: inline-block;
+
+}
+.Isla5{
+    margin: 4%;
+    margin-right: 0%;
+    display: inline-block;
+
+}
+.Isla6{
+    margin: 4%;
+    margin-right: 0%;
+    display: inline-block;
+
+}
+
+.barra{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 5%;
+    display: inline-block;
+}
+
+.noti{
+    color: white;
+}
+
+.topo{
+    color: white;
+    margin-left: 80%;
+    display: inline-block;
+}
+
+.texto3{
+    width: 70%;
+    height: 30%;
+    margin: 1.5%;
+    margin-left: 13%;
+    margin-top: 4%;
+    height: 0 auto;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: dimgrey;
+    
+
+}
+
+.botones3{
+    margin-left: 30%;
+    display: inline-block;
+    margin-left: 40%;
+    
+}
+
+
+.footer{
+    margin-top: 10%;
+    padding: 2%;
+    padding-bottom: 1.2%;
+    background-color: #1a1a1a;
+    margin-bottom: 0px;
+    height: 19%;
+}
+
